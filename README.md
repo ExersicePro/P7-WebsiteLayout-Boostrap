@@ -1,1 +1,3 @@
-# P7-WebsiteLayout-Boostrap
+Praktikum 7 - Website Layout Boostrap 
+
+Masih belajar Sepuh 
